@@ -1,0 +1,11 @@
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\obj\Debug\MathQuiz.MathQuiz.resources
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Properties.Resources.resources
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\chris\OneDrive\Documents\School\semester9\.netdev\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
